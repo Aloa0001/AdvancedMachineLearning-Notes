@@ -23,97 +23,97 @@ This repository aggregates lecture notes, code examples, and experiments for a 1
 ## Lecture 1: Introduction
 Overview of the course structure, objectives, assessment methods, and foundational machine learning algorithms. Topics include logistic regression, Naive Bayes, K-Nearest Neighbors, decision trees, generalization, and learning paradigms.
 
-- **Directory**: [Introduction](IntroductionToML/README.md)
+- **Directory**: [Introduction](lectures/L1-IntroductionToML/README.md)
 - **Contents**: Course overview, structure, assessment, learning platform, algorithms, challenges, generalization, and learning types.
 
 ## Lecture 2: Data
 Focuses on data preparation and preprocessing techniques for machine learning.
 
-- **Directory**: [Data](Data/README.md)
+- **Directory**: [Data](lectures/L2-Data/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 3: ML-AI
 Covers core machine learning and artificial intelligence concepts.
 
-- **Directory**: [ML-AI](ML-AI/README.md)
+- **Directory**: [ML-AI](lectures/L3-ML-AI/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 4: NN Architectures
 Explores neural network architectures and their applications.
 
-- **Directory**: [NN-Architectures](NN-Architectures/README.md)
+- **Directory**: [NN-Architectures](lectures/L4-NN-Architectures/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 5: Sequential Modeling
 Discusses models for sequential data, such as time series or text.
 
-- **Directory**: [Sequential-Modeling](Sequential-Modeling/README.md)
+- **Directory**: [Sequential-Modeling](lectures/L5-Sequential-Modeling/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 6: LLMs
 Covers large language models and their applications.
 
-- **Directory**: [LLMs](LLMs/README.md)
+- **Directory**: [LLMs](lectures/L6-LLMs/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 7: CNN
 Focuses on convolutional neural networks for image and spatial data.
 
-- **Directory**: [CNN](CNN/README.md)
+- **Directory**: [CNN](lectures/L7-CNN/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 8: Interactive ML
 Explores interactive machine learning techniques and applications.
 
-- **Directory**: [Interactive-ML](Interactive-ML/README.md)
+- **Directory**: [Interactive-ML](lectures/L8-Interactive-ML/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 9: Advanced ML
 Covers advanced machine learning techniques and research trends.
 
-- **Directory**: [Advanced-ML](Advanced-ML/README.md)
+- **Directory**: [Advanced-ML](lectures/L9-Advanced-ML/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 10: Transfer Learning
 Discusses transfer learning methods for leveraging pre-trained models.
 
-- **Directory**: [Transfer-Learning](Transfer-Learning/README.md)
+- **Directory**: [Transfer-Learning](lectures/L10-Transfer-Learning/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 11: GNN
 Focuses on graph neural networks for graph-structured data.
 
-- **Directory**: [GNN](GNN/README.md)
+- **Directory**: [GNN](lectures/L11-GNN/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lecture 12: Generative Models
 Explores generative models like GANs and VAEs.
 
-- **Directory**: [Generative-Models](Generative-Models/README.md)
+- **Directory**: [Generative-Models](lectures/L12-Generative-Models/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
 ## Lab 1: Basic Neural Network Implementation
 Implements a 5-layer neural network, including dataset selection, dataloader, model design, and training/testing.
 
-- **Directory**: [Lab1](Lab1/README.md)
+- **Directory**: [Lab1](labs/Lab1/README.md)
 - **Contents**: Dataset selection, dataloader implementation, 5-layer NN design, and training/testing code.
 
 ## Lab 2: Computer Vision
 Focuses on CNN design, comparison with MLP, data augmentation, and fine-tuning pretrained models.
 
-- **Directory**: [Lab2](Lab2/README.md)
+- **Directory**: [Lab2](labs/Lab2/README.md)
 - **Contents**: CNN vs. MLP comparison, data augmentation techniques, and fine-tuning pretrained models.
 
 ## Lab 3: Language Models
 Explores RNN, LSTM, GRU comparisons, word embeddings (Skip-gram vs. CBOW), and text classification.
 
-- **Directory**: [Lab3](Lab3/README.md)
+- **Directory**: [Lab3](labs/Lab3/README.md)
 - **Contents**: RNN model comparisons, GRU implementation, word embeddings, and text classifier adaptation.
 
 ## Lab 4: Generative Models
 Covers VAE latent space interpolation, Conditional VAE implementation, and VAE vs. GAN comparison on a non-standard dataset.
 
-- **Directory**: [Lab4](Lab4/README.md)
+- **Directory**: [Lab4](labs/Lab4/README.md)
 - **Contents**: Latent space interpolation, Conditional VAE, and VAE vs. GAN comparison.
 
 ## Getting Started
