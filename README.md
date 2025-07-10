@@ -1,6 +1,6 @@
 # Machine Learning Course Notes Repository
 
-This repository aggregates lecture notes, code examples, and experiments for a 12-lecture Machine Learning course. Each lecture has its own directory with a dedicated `README.md` file containing detailed notes, code implementations, and additional resources. The course covers foundational and advanced topics in machine learning, with all materials linked below.
+This repository aggregates lecture notes, code examples, and experiments for a 16-session Machine Learning course, including 12 lectures and 4 lab sessions. Each session has its own directory with a dedicated `README.md` file containing detailed notes, code implementations, and additional resources. The course covers foundational and advanced topics in machine learning, with all materials linked below.
 
 ## Table of Contents
 1. [Introduction](#lecture-1-introduction)
@@ -15,6 +15,10 @@ This repository aggregates lecture notes, code examples, and experiments for a 1
 10. [Transfer Learning](#lecture-10-transfer-learning)
 11. [GNN](#lecture-11-gnn)
 12. [Generative Models](#lecture-12-generative-models)
+13. [Lab 1: Basic Neural Network Implementation](#lab-1-basic-neural-network-implementation)
+14. [Lab 2: Computer Vision](#lab-2-computer-vision)
+15. [Lab 3: Language Models](#lab-3-language-models)
+16. [Lab 4: Generative Models](#lab-4-generative-models)
 
 ## Lecture 1: Introduction
 Overview of the course structure, objectives, assessment methods, and foundational machine learning algorithms. Topics include logistic regression, Naive Bayes, K-Nearest Neighbors, decision trees, generalization, and learning paradigms.
@@ -88,11 +92,35 @@ Explores generative models like GANs and VAEs.
 - **Directory**: [Generative-Models](Generative-Models/README.md)
 - **Contents**: To be populated with detailed notes and code examples.
 
+## Lab 1: Basic Neural Network Implementation
+Implements a 5-layer neural network, including dataset selection, dataloader, model design, and training/testing.
+
+- **Directory**: [Lab1](Lab1/README.md)
+- **Contents**: Dataset selection, dataloader implementation, 5-layer NN design, and training/testing code.
+
+## Lab 2: Computer Vision
+Focuses on CNN design, comparison with MLP, data augmentation, and fine-tuning pretrained models.
+
+- **Directory**: [Lab2](Lab2/README.md)
+- **Contents**: CNN vs. MLP comparison, data augmentation techniques, and fine-tuning pretrained models.
+
+## Lab 3: Language Models
+Explores RNN, LSTM, GRU comparisons, word embeddings (Skip-gram vs. CBOW), and text classification.
+
+- **Directory**: [Lab3](Lab3/README.md)
+- **Contents**: RNN model comparisons, GRU implementation, word embeddings, and text classifier adaptation.
+
+## Lab 4: Generative Models
+Covers VAE latent space interpolation, Conditional VAE implementation, and VAE vs. GAN comparison on a non-standard dataset.
+
+- **Directory**: [Lab4](Lab4/README.md)
+- **Contents**: Latent space interpolation, Conditional VAE, and VAE vs. GAN comparison.
+
 ## Getting Started
 To use this repository:
 1. Clone the repository: `git clone https://github.com/[YourGitHubUsername]/ML-Course-Notes.git`
-2. Navigate to the desired lecture directory (e.g., `cd Introduction`).
-3. Follow the instructions in each lecture's `README.md` for running code examples or experiments.
+2. Navigate to the desired lecture or lab directory (e.g., `cd Lab1`).
+3. Follow the instructions in each session's `README.md` for running code examples or experiments.
 
 ## Contributing
 Contributions are welcome! Please submit pull requests with additional notes, code, or corrections. Ensure that any code added is well-documented and compatible with Python 3.x.
