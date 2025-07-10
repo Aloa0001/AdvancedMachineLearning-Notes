@@ -23,7 +23,7 @@ This repository aggregates lecture notes, code examples, and experiments for a 1
 ## Lecture 1: Introduction
 Overview of the course structure, objectives, assessment methods, and foundational machine learning algorithms. Topics include logistic regression, Naive Bayes, K-Nearest Neighbors, decision trees, generalization, and learning paradigms.
 
-- **Directory**: [Introduction](Introduction/README.md)
+- **Directory**: [Introduction](IntroductionToML/README.md)
 - **Contents**: Course overview, structure, assessment, learning platform, algorithms, challenges, generalization, and learning types.
 
 ## Lecture 2: Data
